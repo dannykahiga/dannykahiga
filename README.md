@@ -1,10 +1,6 @@
-<h1 align="center">Hi, I'm Daniel Kahiga 👋</h1>
+<h1 align="center">Hey, I'm Daniel Kahiga 👋</h1>
 <p align="center">
   <b>Software Engineer</b> • Nairobi, Kenya 🇰🇪
-</p>
-<p align="center">
-  <a href="mailto:dannykamau.dk@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/daniel-kahiga/details/projects/">💼 LinkedIn Projects</a>
 </p>
 
 ---
@@ -57,6 +53,17 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ---
 
+## 📌 Featured Projects
+
+> 🔗 Explore my full project portfolio on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/details/projects/)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Buniflow Workflows Studio** | No-code canvas for designing and running automated workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)|
+| **CorMariae** | A meditation cross-platform mobile app featuring forced alignment technique | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+
+---
+
 ## 💼 Professional Experience
 
 ### Senior Software Engineer — Buniflow Limited
@@ -82,19 +89,6 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ---
 
-## 📌 Featured Projects
-
-> 🔗 Explore my full project portfolio on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/details/projects/)
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Workflows Studio** | No-code canvas for designing and running automated workflows | FastAPI, ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB), Polars |
-| **POS & Financial Management Apps** | Cross-platform desktop and mobile apps for retail and finance | Flutter, Dart, Express.js |
-| **Student Recruiter** | Mobile application for student recruitment and management | Flutter, Firebase |
-| **Microfundit** | Mobile platform for microfinance and funding | Flutter, Dart |
-| **Timetable Generator** | Automated, collision-free college timetable system using genetic algorithms | Java, JavaFX |
-
----
 
 ## 📊 GitHub Stats
 
@@ -111,10 +105,6 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [dannykamau.dk@gmail.com](mailto:dannykamau.dk@gmail.com)
-- 💼 **LinkedIn:** [Daniel Kahiga](https://www.linkedin.com/in/daniel-kahiga/)
-- 🌍 **Location:** Nairobi, Kenya
-- 
 [![Email](https://img.shields.io/badge/Email-dannykamau.dk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannykamau.dk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/)
 [![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
