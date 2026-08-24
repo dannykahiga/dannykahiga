@@ -11,12 +11,13 @@
 
 ## 🚀 About Me
 
-I'm a versatile and results-driven software engineer with **7+ years of experience** building, launching, and maintaining software applications across **web, mobile, and desktop** platforms. I specialize in turning complex problems into elegant, scalable solutions — from no-code workflow studios to cross-platform mobile apps.
+I'm a versatile and results-driven software engineer with **7+ years of experience** building, launching, and maintaining software applications across **web, mobile, and desktop** platforms. I specialize in turning complex problems into elegant, scalable solutions.
 
-- 🔭 Currently focused on **full-stack development** and **workflow automation**
+- 🔭 Currently focused on **full-stack development** and **automation**
 - 🌱 Always exploring new tools in the **data science** and **AI** space
 - 💡 Passionate about **clean code**, **system design**, and **developer productivity**
 - 🤝 Strong believer in cross-functional collaboration and delivering on schedule
+- 🎨 Hobbies: hiking, reading, gaming, baking & travelling. 
 
 ---
 
@@ -81,23 +82,13 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ---
 
-## 🎓 Education
-
-**BSc in Mathematics and Computer Science** — Kirinyaga University  
-*September 2014 – October 2018*
-
-- Specialized in applied mathematics and computer science
-- **Final Year Project:** Built an automated college timetable generator using **Java, JavaFX, and Genetic Algorithms** — generating collision-free timetables and strengthening algorithmic problem-solving skills
-
----
-
 ## 📌 Featured Projects
 
-> 🔗 Explore my full project portfolio on [LinkedIn](https://www.linkedin.com/in/daniel-kahiga/details/projects/)
+> 🔗 Explore my full project portfolio on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/details/projects/)
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Workflows Studio** | No-code canvas for designing and running automated workflows | FastAPI, SvelteKit, Polars |
+| **Workflows Studio** | No-code canvas for designing and running automated workflows | FastAPI, ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB), Polars |
 | **POS & Financial Management Apps** | Cross-platform desktop and mobile apps for retail and finance | Flutter, Dart, Express.js |
 | **Student Recruiter** | Mobile application for student recruitment and management | Flutter, Firebase |
 | **Microfundit** | Mobile platform for microfinance and funding | Flutter, Dart |
@@ -108,9 +99,12 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dannykahiga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannykahiga&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dannykahiga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -120,11 +114,15 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 - 📧 **Email:** [dannykamau.dk@gmail.com](mailto:dannykamau.dk@gmail.com)
 - 💼 **LinkedIn:** [Daniel Kahiga](https://www.linkedin.com/in/daniel-kahiga/)
 - 🌍 **Location:** Nairobi, Kenya
+- 
+[![Email](https://img.shields.io/badge/Email-dannykamau.dk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannykamau.dk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/)
+[![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 > *"Turning complex problems into elegant, scalable solutions."*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dannykahiga&style=flat-square&color=blue" alt="Profile Views" />
 </p>
