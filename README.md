@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel Kahiga 👋</h1>
-<p align="center">
+<h3 align="center">
   <b>Software Engineer</b> • Nairobi, Kenya 🇰🇪
-</p>
+</h3>
 
 ---
 
