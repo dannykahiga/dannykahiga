@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Kahiga 👋</h1>
 <p align="center">
-  <b>Senior Software Engineer</b> • Nairobi, Kenya 🇰🇪
+  <b>Software Engineer</b> • Nairobi, Kenya 🇰🇪
 </p>
 <p align="center">
   <a href="mailto:dannykamau.dk@gmail.com">📧 Email</a> •
