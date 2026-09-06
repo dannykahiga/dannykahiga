@@ -27,6 +27,8 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TornadoFX](https://img.shields.io/badge/TornadoFX-000000?style=flat&logo=tornadofx&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-E34F26?style=flat&logo=javafx&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,10 +36,12 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-800080?style=flat&logo=kotlin&logoColor=white)
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-800080?style=flat&logo=kotlin&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
