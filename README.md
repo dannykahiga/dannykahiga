@@ -33,6 +33,7 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white)
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
