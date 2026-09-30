@@ -60,7 +60,7 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ## 📌 Featured Projects
 
-> 🔗 Explore my full project portfolio on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/details/projects/)
+> 🔗 Explore my full project portfolio on https://danielkahiga.dev/#projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -97,10 +97,10 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dannykahiga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannykahiga&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dannykahiga&theme=tokyonight&hide_border=true" />
@@ -110,7 +110,7 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-dannykamau.dk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannykamau.dk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contracts@danielkahiga.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contracts@danielkahiga.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Kahiga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kahiga/)
 [![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
