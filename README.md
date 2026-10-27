@@ -72,7 +72,7 @@ I'm a versatile and results-driven software engineer with **8+ years of experien
 ## 💼 Professional Experience
 
 ### Senior Front-end Engineer — Deloitte East Africa
-*December 2022 – Present*
+*December 2024 – Present*
 
 - Developing, maintaining, resolving defects, and introducing high-impact features for the SAR (Simplified Automation of Returns) automation tool for precise employment tax calculations
 - Building, updating, and optimizing enterprise data workflows running on the Tax Computation Engine to automate tax calculations and document processing pipelines.
