@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a versatile and results-driven software engineer with **7+ years of experience** building, launching, and maintaining software applications across **web, mobile, and desktop** platforms. I specialize in turning complex problems into elegant, scalable solutions.
+I'm a versatile and results-driven software engineer with **8+ years of experience** building, launching, and maintaining software applications across **web, mobile, and desktop** platforms. I specialize in turning complex problems into elegant, scalable solutions.
 
 - 🔭 Currently focused on **full-stack development** and **automation**
 - 🌱 Always exploring new tools in the **data science** and **AI** space
@@ -71,7 +71,14 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 
 ## 💼 Professional Experience
 
-### Senior Software Engineer — Buniflow Limited
+### Senior Front-end Engineer — Deloitte East Africa
+*December 2022 – Present*
+
+- Developing, maintaining, resolving defects, and introducing high-impact features for the SAR (Simplified Automation of Returns) automation tool for precise employment tax calculations
+- Building, updating, and optimizing enterprise data workflows running on the Tax Computation Engine to automate tax calculations and document processing pipelines.
+- Collaborating with tax specialists and business stakeholders to translate statutory tax compliance rules and payroll frameworks into interactive, audit-ready UI calculators.
+
+### Senior Full-stack Software Engineer & Stake Holder
 *December 2022 – Present*
 
 - Architected and built **Workflows Studio**, a no-code canvas platform enabling users to design and execute automated workflows
@@ -79,21 +86,9 @@ I'm a versatile and results-driven software engineer with **7+ years of experien
 - Developed data tools and integrations leveraging **Polars** for high-performance data processing within the workflow designer
 - **Boosted company productivity by 40%** by enabling rapid backend prototyping for client projects
 
-### Software Engineer — Zaidi Marvels Company
-*November 2019 – December 2022*
-
-- Developed and maintained **desktop and mobile applications** for point-of-sale (POS) and financial management systems
-- Built client-facing web applications and handled end-to-end deployment and technical troubleshooting
-- Provided client consultation and technical support, ensuring timely project delivery
-
-### Mobile Application Developer — CBIIC (Internship)
-*May 2019 – September 2019*
-
-- Contributed to in-house projects including **Student Recruiter** and **Microfundit** mobile applications
-- Engaged with clients and supported business development activities
+> 🔗 Explore my full resume portfolio on https://danielkahiga.dev/#resume
 
 ---
-
 
 ## 📊 GitHub Stats
 
