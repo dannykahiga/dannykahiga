@@ -78,7 +78,7 @@ I'm a versatile and results-driven software engineer with **8+ years of experien
 - Building, updating, and optimizing enterprise data workflows running on the Tax Computation Engine to automate tax calculations and document processing pipelines.
 - Collaborating with tax specialists and business stakeholders to translate statutory tax compliance rules and payroll frameworks into interactive, audit-ready UI calculators.
 
-### Senior Full-stack Software Engineer & Stake Holder
+### Senior Full-stack Software Engineer & Stake Holder — Buniflow Limited
 *December 2022 – Present*
 
 - Architected and built **Workflows Studio**, a no-code canvas platform enabling users to design and execute automated workflows
